@@ -7,8 +7,7 @@ What value do you think it offers?
 It helps delineate your files.
 
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change? check it out using diff comparisons.
 
 
 
