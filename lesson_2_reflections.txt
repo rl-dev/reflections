@@ -17,6 +17,7 @@ Branches help you keep different experiemental pieces of code separate while the
 
 
 How do the diagrams help you visualize the branch structure?
+Diagrams show a picture of coding streams.
 
 
 
